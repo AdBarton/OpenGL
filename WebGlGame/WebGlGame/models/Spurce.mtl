@@ -1,0 +1,35 @@
+# Blender MTL File: 'Snowy_Spurce.blend'
+# Material Count: 3
+
+newmtl Bark
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.123710 0.048918 0.012807
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\barta\\OneDrive\\WebGlGame\\WebGlGame\\textures\\Texture.png
+
+newmtl Leaves
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.018984 0.167948 0.018540
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\barta\\OneDrive\\WebGlGame\\WebGlGame\\textures\\Texture.png
+
+newmtl Snow
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\barta\\OneDrive\\WebGlGame\\WebGlGame\\textures\\Texture.png

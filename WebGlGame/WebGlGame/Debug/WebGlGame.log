@@ -1,0 +1,14 @@
+﻿  Lesson1.cpp
+Lesson1.obj : error LNK2019: Nerozpoznaný externí symbol _glewInit@0 odkazovaný ve funkci _main
+Lesson1.obj : error LNK2019: Nerozpoznaný externí symbol _glfwInit odkazovaný ve funkci _main
+Lesson1.obj : error LNK2019: Nerozpoznaný externí symbol _glfwTerminate odkazovaný ve funkci _main
+Lesson1.obj : error LNK2019: Nerozpoznaný externí symbol _glfwWindowHint odkazovaný ve funkci _main
+Lesson1.obj : error LNK2019: Nerozpoznaný externí symbol _glfwCreateWindow odkazovaný ve funkci _main
+Lesson1.obj : error LNK2019: Nerozpoznaný externí symbol _glfwWindowShouldClose odkazovaný ve funkci _main
+Lesson1.obj : error LNK2019: Nerozpoznaný externí symbol _glfwPollEvents odkazovaný ve funkci _main
+Lesson1.obj : error LNK2019: Nerozpoznaný externí symbol _glfwMakeContextCurrent odkazovaný ve funkci _main
+Lesson1.obj : error LNK2019: Nerozpoznaný externí symbol _glfwSwapBuffers odkazovaný ve funkci _main
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glewExperimental
+.\common\lib\glfw3.lib : warning LNK4272: Typ počítače knihovny x64 koliduje s typem cílového počítače x86.
+.\common\lib\glew32s.lib : warning LNK4272: Typ počítače knihovny x64 koliduje s typem cílového počítače x86.
+C:\Users\barta\source\repos\WebGlGame\Win32\Debug\WebGlGame.exe : fatal error LNK1120: Počet nerozpoznaných externích typů: 10

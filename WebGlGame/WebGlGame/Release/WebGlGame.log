@@ -1,0 +1,12 @@
+﻿  Lesson1.cpp
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glfwSwapBuffers
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glfwTerminate
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glfwPollEvents
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glfwInit
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glfwCreateWindow
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glfwWindowHint
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glfwMakeContextCurrent
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glewExperimental
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glfwWindowShouldClose
+Lesson1.obj : error LNK2001: Nerozpoznaný externí symbol _glewInit@0
+.\WebGlGame.exe : fatal error LNK1120: Počet nerozpoznaných externích typů: 10
