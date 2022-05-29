@@ -1,9 +1,3 @@
-//-----------------------------------------------------------------------------
-// lighting_dir.frag by Steve Jones 
-// Copyright (c) 2015-2019 Game Institute. All Rights Reserved.
-//
-// Fragment shader for directional light
-//-----------------------------------------------------------------------------
 #version 330 core
 
 struct Material 

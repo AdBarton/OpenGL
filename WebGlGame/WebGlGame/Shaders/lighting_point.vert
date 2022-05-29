@@ -1,9 +1,3 @@
-//-----------------------------------------------------------------------------
-// lighting_point.vert by Steve Jones 
-// Copyright (c) 2015-2019 Game Institute. All Rights Reserved.
-//
-// Vertex shader for point light
-//-----------------------------------------------------------------------------
 #version 330 core
 
 layout (location = 0) in vec3 pos;			
